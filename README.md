@@ -30,7 +30,7 @@ Here are some of the projects I've worked on:
 ​
 
 - 📍​
-- 💼 [LinkedIn](#)​
+- 💼 [LinkedIn]( https://www.linkedin.com/in/nithin-buggarigani-a4625524b/)​
 - 📧​
 
 ---
