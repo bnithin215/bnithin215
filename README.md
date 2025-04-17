@@ -20,6 +20,7 @@ Here are some of the projects I've worked on:
 - HTML ​
 - ​JavaScript
 - ​CSS
+- SQL
 
 ## 📈 GitHub Stats
 
