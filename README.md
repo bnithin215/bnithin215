@@ -8,10 +8,11 @@ Here are some of the projects I've worked on:
 
 - **[Bonafide Generator](https://github.com/bnithin215/Bonafide-Generator)** – A tool to generate bonafide certificates.​
 - **[Age Calculator](https://github.com/bnithin215/Age-calculator-)** –​
-- **[DIGIBHEM](https://github.com/bnithin215/DIGIBHEM)** –​
-- **[Netflix FrontPage Clone](https://github.com/bnithin215/Netflix-FrontPage)** –​
+- **[JavaScript Practices](https://github.com/bnithin215/JavaScript-Practices)** –​Two Projects 1)StickyNotes App 2)Memory Game 
+- **[DIGIBHEM](https://github.com/bnithin215/DIGIBHEM)** –​1 Month virtual Intership
+- **[Netflix FrontPage Clone](https://github.com/bnithin215/Netflix-FrontPage)** –​Basic Homepage
 - **[Todo List](https://github.com/bnithin215/Todo-list-)** –​
-- **[JavaScript Practices](https://github.com/bnithin215/JavaScript-Practices)** –​
+
 
 ## 🛠️ Technologies & Tools
 
@@ -21,6 +22,8 @@ Here are some of the projects I've worked on:
 - ​JavaScript
 - ​CSS
 - SQL
+- MongoDB
+- React
 
 ## 📈 GitHub Stats
 
@@ -30,9 +33,9 @@ Here are some of the projects I've worked on:
 
 ​
 
-- 📍​
+- 📍​Hyderabad
 - 💼 [LinkedIn]( https://www.linkedin.com/in/nithin-buggarigani-a4625524b/)​
-- 📧​
+- 📧​nithinbuggargani@gmail.com
 
 ---
 
