@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
   <!-- Core Concepts -->
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SDLC-4CAF50?style=for-the-badge&logo=azuredevops&logoColor=white"/>
   <img src="https://img.shields.io/badge/Problem%20Solving-FF5722?style=for-the-badge&logo=codeforces&logoColor=white"/>
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  
 
   <!-- Deployment -->
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
