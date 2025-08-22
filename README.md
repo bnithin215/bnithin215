@@ -77,7 +77,7 @@
 
 ## 📫 Let's Connect
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Software+Trainee;Python+%26+JavaScript+Developer;Open+to+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;MERN+Stack+Developer;Node.js+Developer)](https://git.io/typing-svg)
 
 - 📍 Hyderabad, India  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nithin-buggarigani-a4625524b/)  
