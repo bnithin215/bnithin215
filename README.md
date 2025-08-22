@@ -30,6 +30,8 @@ Here are some of the projects I've worked on:
 ![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnithin215\&show_icons=true\&theme=radical)
 
 ## 📫 Let's Connect
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Software+Trainee;Python+%26+JavaScript+Developer;Open+to+Opportunities)](https://git.io/typing-svg)
+
 
 ​
 
