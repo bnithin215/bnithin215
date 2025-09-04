@@ -26,8 +26,7 @@
 
   <!-- Core Concepts -->
   
-  <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SDLC-4CAF50?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Problem%20Solving-FF5722?style=for-the-badge&logo=codeforces&logoColor=white"/>
 
   <!-- Frontend -->
@@ -35,7 +34,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+ 
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
