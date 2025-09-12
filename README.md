@@ -7,8 +7,8 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 **[Bonafide Generator](https://github.com/bnithin215/Bonafide-Generator)** – A tool to generate bonafide certificates.  
-- 🔹 **[Age Calculator](https://github.com/bnithin215/Age-calculator-)** – Simple app to calculate exact age.  
+- 🔹 **[Hospital-Management System](https://github.com/bnithin215/Hospital-Management)** –Full-stack hospital management app for Patients, Doctors, and Appointments using React.js, Node.js, Express, and MongoDB..  
+- 🔹 **[Bonafide Generator]((https://github.com/bnithin215/Bonafide-Generator))** –A tool to generate bonafide certificates..  
 - 🔹 **[JavaScript Practices](https://github.com/bnithin215/JavaScript-Practices)** – Includes **Sticky Notes App** and **Memory Game**.  
 - 🔹 **[DIGIBHEM](https://github.com/bnithin215/DIGIBHEM)** – 1-month virtual internship project.  
 - 🔹 **[Netflix FrontPage Clone](https://github.com/bnithin215/Netflix-FrontPage)** – Basic Netflix homepage clone using HTML/CSS.  
